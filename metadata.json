@@ -1,0 +1,6 @@
+{
+  "name": "EduPath - Student Support AI Agent",
+  "description": "Ethical AI triage agent for student attendance, financial hardship, and wellbeing concerns with synthetic records check, booking, and human escalation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
